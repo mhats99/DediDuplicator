@@ -24,6 +24,22 @@ DediDuplicator is a user-friendly application designed to help you quickly and e
 ![Selection By Time Results](image/select_window.png)
 *When selecting by time, identical files are marked for deletion according to the selected time.*
 
+## System Requirements
+
+- Windows 11 (Tested)
+- Windows 10 or later (Compatibility not confirmed for earlier versions)
+- Python 3.12.2 (packaged with the application)
+
+## How to Use
+
+1. Download and run the application on Windows 11.
+2. Click the "Add" button to select folders to scan.
+3. Click the "Scan" button to start the scanning process.
+4. Review the results displayed in the table.
+5. Select files you wish to delete and click the "Delete" button.
+
+**Note:** While the application has been tested on Windows 11, compatibility with earlier versions of Windows (such as Windows 10) has not been confirmed. Please use at your own discretion.
+
 ## Installation
 
 To run DediDuplicator, you need to have Python 3.12.2 installed on your system. Follow these steps to get started:
@@ -54,9 +70,8 @@ To run DediDuplicator, you need to have Python 3.12.2 installed on your system. 
 
 ### Windows Users
 
-- An executable (EXE) format of the application will be provided in the future for easier installation on Windows.
--  Download Link
-   - [DediDuplicator v1.0.0 - Standalone EXE File](https://github.com/mhats99/DediDuplicator/releases/download/v1.0.0/DediDuplicator.exe)
+- Download and run the application.
+- [DediDuplicator v1.0.0 - Standalone EXE File](https://github.com/mhats99/DediDuplicator/releases/download/v1.0.0/DediDuplicator.exe)
 
 
 ### Linux Users
