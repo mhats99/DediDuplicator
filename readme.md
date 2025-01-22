@@ -15,13 +15,13 @@ DediDuplicator is a user-friendly application designed to help you quickly and e
 
 ## Screenshots
 
-![Main Interface](\image\main_window.png)
+![Main Interface](image/main_window.png)
 *Main interface of DediDuplicator showing the folder selection.*
 
-![Scan Results](\image\scan_window.png)
+![Scan Results](image/scan_window.png)
 *Scan results displaying duplicate files.*
 
-![Selection By Time Results](\image\select_window.png)
+![Selection By Time Results](image/select_window.png)
 *When selecting by time, identical files are marked for deletion according to the selected time.*
 
 ## Installation
