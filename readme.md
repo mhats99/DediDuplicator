@@ -55,6 +55,9 @@ To run DediDuplicator, you need to have Python 3.12.2 installed on your system. 
 ### Windows Users
 
 - An executable (EXE) format of the application will be provided in the future for easier installation on Windows.
+-  Download Link
+   - [DediDuplicator v1.0.0 - Standalone EXE File](https://github.com/mhats99/DediDuplicator/releases/download/v1.0.0/DediDuplicator.exe)
+
 
 ### Linux Users
 
